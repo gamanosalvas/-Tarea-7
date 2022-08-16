@@ -225,7 +225,64 @@ total con cada una de las siguientes combinaciones:
 
 CAPITULO 14:
 
+2. Determine el coeficiente de acoplamiento cuando LM 1 mH, L1  8 mH, y L2 2 mH.
 
+4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?
+
+6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?
+
+8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?
+
+10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?
+
+12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
+
+![image](https://user-images.githubusercontent.com/94025287/184756437-424170db-a839-426e-ac11-4d9bc5a8e8ed.png)
+
+14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?
+
+![image](https://user-images.githubusercontent.com/94025287/184756462-661bb9fa-9ed3-48b4-b0c1-e13d377e179b.png)
+
+16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
+
+![image](https://user-images.githubusercontent.com/94025287/184756480-9ce5f6af-449e-4804-b3ee-61957de8175d.png)
+
+18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 Æ.
+
+![image](https://user-images.githubusercontent.com/94025287/184756512-27018856-ff99-4fbd-950d-867c25734a55.png)
+
+20. Encuentre la relación de vueltas apropiada en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Æ. Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.
+
+![image](https://user-images.githubusercontent.com/94025287/184756553-ee149575-0480-498f-ad18-41ff07c3bf78.png)
+
+22. ¿Cuál es la eficiencia del transformador en el problema 21?
+
+*24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V.
+(a) ¿Cuál es la corriente máxima en la carga?
+
+(b) ¿Cuál es el valor RL más pequeño que puede ser excitado?
+
+(c) ¿Cuál es el capacitor más grande que se puede conectar como carga?
+
+26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz.
+ 
+(a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?
+
+(b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?
+
+(c) ¿Cuál es la corriente nominal del devanado primario si los 2400 V son el voltaje primario?
+
+28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario.
+
+![image](https://user-images.githubusercontent.com/94025287/184756625-51d4b491-9426-40a8-9468-f84fcd78dc67.png)
+
+30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V.
+
+![image](https://user-images.githubusercontent.com/94025287/184756657-9ce45228-6f21-4680-852d-4a0f1db68c4a.png)
+
+32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?
+
+34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable?
 
 4.- Video:
 
