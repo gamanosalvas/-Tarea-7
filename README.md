@@ -225,64 +225,126 @@ total con cada una de las siguientes combinaciones:
 
 CAPITULO 14:
 
-2. Determine el coeficiente de acoplamiento cuando LM 1 mH, L1  8 mH, y L2 2 mH.
+2. ¿Cuál es la inductancia mutua cuando k = 0.75, L1 = 1 mH, y L2 = 4 mH?
 
-4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?
+![image](https://user-images.githubusercontent.com/93210648/152652374-4a1db1a5-ce8a-479d-bd33-a9d36cda883c.png)
 
-6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?
+SECCIÓN 14–2 El transformador básico
 
-8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?
+4. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario?. ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
 
-10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?
+![image](https://user-images.githubusercontent.com/93210648/152716499-6ce4eb73-ef2e-4f3e-abcf-2ffc3af18b04.png)
 
-12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
+6. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud.
 
-![image](https://user-images.githubusercontent.com/94025287/184756437-424170db-a839-426e-ac11-4d9bc5a8e8ed.png)
+![image](https://user-images.githubusercontent.com/93210648/152716847-4841648e-d6b7-4027-af4d-88d007b91ada.png)
 
-14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?
+![image](https://user-images.githubusercontent.com/93210648/152719965-9ee9410e-0c93-4d1b-8cd5-fffb21e1d4aa.png)
 
-![image](https://user-images.githubusercontent.com/94025287/184756462-661bb9fa-9ed3-48b4-b0c1-e13d377e179b.png)
+SECCIÓN 14–3 Transformadores elevadores y reductores
 
-16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
+8. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5?
 
-![image](https://user-images.githubusercontent.com/94025287/184756480-9ce5f6af-449e-4804-b3ee-61957de8175d.png)
+![image](https://user-images.githubusercontent.com/93210648/152720338-e0a054d5-c351-45d9-a6cb-d9599ee7caae.png)
 
-18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 Æ.
+10. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
 
-![image](https://user-images.githubusercontent.com/94025287/184756512-27018856-ff99-4fbd-950d-867c25734a55.png)
+![image](https://user-images.githubusercontent.com/93210648/152720805-836bbb09-9077-478f-879c-5e217d5116a0.png)
 
-20. Encuentre la relación de vueltas apropiada en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Æ. Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.
+12. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
 
-![image](https://user-images.githubusercontent.com/94025287/184756553-ee149575-0480-498f-ad18-41ff07c3bf78.png)
+![image](https://user-images.githubusercontent.com/93210648/152721149-e6334e9f-0bd3-427f-9138-17ed38b4b491.png)
 
-22. ¿Cuál es la eficiencia del transformador en el problema 21?
+14. Determine las lecturas de medidor no especificadas en la figura 14-44.
 
-*24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V.
-(a) ¿Cuál es la corriente máxima en la carga?
+![image](https://user-images.githubusercontent.com/94025287/152810935-e0cdf892-b644-4fe9-b7d8-1bf6e955a10c.png)
 
-(b) ¿Cuál es el valor RL más pequeño que puede ser excitado?
+![image](https://user-images.githubusercontent.com/94025287/152830500-c8cef6dc-c9e5-4848-b534-9aa6662ef849.png)
 
-(c) ¿Cuál es el capacitor más grande que se puede conectar como carga?
+16. Determine las siguientes cantidades en la figura 14-46.
 
-26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz.
- 
-(a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?
+(a) Corriente primaria   
 
-(b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?
+![image](https://user-images.githubusercontent.com/94025287/152831929-68afcbad-c924-4a07-a180-b68b5d365bfa.png)
 
-(c) ¿Cuál es la corriente nominal del devanado primario si los 2400 V son el voltaje primario?
+(b) Corriente secundaria
 
-28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario.
+![image](https://user-images.githubusercontent.com/94025287/152831979-2076f151-e1a3-4e62-92b5-4be807612f89.png)
 
-![image](https://user-images.githubusercontent.com/94025287/184756625-51d4b491-9426-40a8-9468-f84fcd78dc67.png)
+(c) Voltaje secundario    
 
-30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V.
+![image](https://user-images.githubusercontent.com/94025287/152832010-c2a6d3af-b78e-4717-a676-ccadacbe7998.png)
 
-![image](https://user-images.githubusercontent.com/94025287/184756657-9ce45228-6f21-4680-852d-4a0f1db68c4a.png)
+(d) Potencia en la carga
 
-32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?
+![image](https://user-images.githubusercontent.com/94025287/152832039-73d1ebea-a3b2-4f45-9abb-fc3b3c126593.png)
 
-34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable?
+18. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Ω en el circuito primario?
+
+![image](https://user-images.githubusercontent.com/94025287/152832081-45553e19-97e6-4655-85b2-6a8e70acdf75.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152832554-62d39626-f79b-4b99-9e23-a7cf158dbe8b.png)
+
+20. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4 Ω?
+
+![image](https://user-images.githubusercontent.com/94025287/152832603-c551fd1b-ce73-4140-85aa-652b9f0de89b.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152832878-8cac10fb-359d-48db-a35d-66090a52d588.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152832905-4d31ff80-7d68-431e-befc-c2cf563baf19.png)
+
+22. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
+
+En un transformador práctico, la conversión de energía eléctrica en calor reduce la eficiencia. La eficiencia de un transformador ideal es del 100 por ciento.
+
+24. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.
+
+Cuando k 0.85, un 85% del flujo magnético generado en el devanado primario pasa a través del devanado secundario.
+
+26. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10A a través de la carga con un voltaje secundario de 2?5 kV?
+
+![image](https://user-images.githubusercontent.com/94025287/152832731-c72a0e6a-c364-440b-8996-73e3daef5f24.png)
+
+28. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
+
+![image](https://user-images.githubusercontent.com/94025287/152832766-dacd2ee5-773e-4700-9b22-46edd4e2769a.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837242-c05cd720-9545-44c2-84ff-20c4fdca7ccf.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837272-87b37715-b42b-4ed6-9dd0-a18f4cdbda66.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837297-45fa814d-df0f-4097-a5ce-104758ec28ee.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837316-5286f78b-a2d1-4e32-a678-cefe5b6a090b.png)
+
+30. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53.
+
+![image](https://user-images.githubusercontent.com/94025287/152837489-d9816908-9116-4826-ae86-abd1466d4535.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837538-20d4a813-811e-463a-bc92-6372b93db39a.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837555-0994824b-5459-475a-898f-b38437512d1e.png)
+
+32. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente:
+
+(a) Todos los voltajes y corrientes presentes en la carga
+
+![image](https://user-images.githubusercontent.com/94025287/152837844-dfd0cfce-8438-4d2d-990c-706d9c988a8e.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837866-623b0184-f137-4ca7-8cca-8f03e4cc0701.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837906-dd8e8e00-d540-4671-952f-1983c27c399b.png)
+
+![image](https://user-images.githubusercontent.com/94025287/152837938-6773d545-657d-4980-83cc-9d3ad5eaa59e.png)
+
+(b) La resistencia reflejada en el primario
+
+![image](https://user-images.githubusercontent.com/94025287/152838082-ec663290-c662-46aa-bc9f-648e2e4495a7.png)
+
+
+34. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
+
+Fallas de transformador: los devanados abiertos son las fallas más comunes, los devanados en cortocircuito son mucho menos comunes.
 
 4.- Video:
 
