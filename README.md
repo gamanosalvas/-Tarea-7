@@ -12,7 +12,7 @@ NRC: 7309
 
 Docente: Ing. Darwin Alulema
 
-Tema: Resolucion de los ejercicios impares de los capitulos 13 y 14 del libro Principios de circuitos electricos de Floyd.
+Tema: Resolucion de los ejercicios pares de los capitulos 13 y 14 del libro Principios de circuitos electricos de Floyd.
 
 1.- Objetivos:
 
