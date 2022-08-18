@@ -348,6 +348,7 @@ Fallas de transformador: los devanados abiertos son las fallas más comunes, los
 
 4.- Video:
 
+https://youtu.be/Ja8hmBrrMg0
 
 5.- Conclusiones:
 
